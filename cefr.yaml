@@ -1,0 +1,14 @@
+metadata:
+  version: uncontrolled
+settings:
+  availabilityFactor: 0.9
+  power: 65000000
+  cycleLength: 80.0
+  loadingFile: cefr-blueprints.yaml
+  nCycles: 1
+  burnSteps: 2
+  buGroups:
+    - 100
+  comment: CEFR startup core from IAEA benchmark
+  genXS: Neutron
+  numProcessors: 1

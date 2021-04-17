@@ -1,0 +1,31 @@
+core:
+  geom: hex
+  lattice map: |
+    -     -     -     SS2
+       -     -     SS2   SS2
+    -     -     SS2   SS2   RE 
+       -     SS2   IC    IC    SS2
+    -     SS2   IC    IC    IC    SS2
+       SS2   IC    IC    IC    IC    SS2
+    SS2   IC    IC    IC    SS1   IC    SS2
+       IC    IC    IC    IC    IC    IC 
+    SS2   SA    IC    SH    IC    SA    SS2
+       IC    IC    IC    IC    IC    IC 
+    SS2   IC    IC    IC    IC    IC    SS2
+       IC    IC    IC    IC    IC    IC 
+    SS2   IC    IC    NS    IC    IC    SS2
+       IC    IC    IC    IC    IC    IC 
+    SS2   IC    SH    IC    SH    IC    SS2
+       IC    IC    IC    IC    IC    IC 
+    SS2   IC    IC    IC    IC    IC    SS2
+       SS2   IC    IC    IC    IC    SS2
+    SS2   IC    SS1   IC    IC    IC    SS2
+       SS2   IC    IC    IC    IC    SS2
+          RE    IC    SA    IC    SS2
+             SS2   IC    IC    SS2
+                SS2   IC    SS2
+                   SS2   SS2
+                      SS2
+  grid bounds:
+  symmetry: full
+  grid contents:
